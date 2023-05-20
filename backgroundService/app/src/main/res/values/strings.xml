@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">foreground Service</string>
+    <string name="data_intent">data intent!</string>
+	<string name="start">start service</string>
+	<string name="stop">stop service</string>
+</resources>
